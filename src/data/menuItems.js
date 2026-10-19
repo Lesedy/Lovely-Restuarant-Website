@@ -1,0 +1,12 @@
+const menuItems = [
+ {id:1,name:'Tomato Basil Soup',category:'Starters',description:'Roasted tomatoes, fresh basil, cream',price:75,image:'https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=900&q=85',alt:'A warm bowl of soup garnished with herbs'},
+ {id:2,name:'Garlic Prawns',category:'Starters',description:'Prawns, garlic, herbs, lemon',price:85,image:'https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?auto=format&fit=crop&w=900&q=85',alt:'Seafood served on a plate'},
+ {id:3,name:'Bruschetta',category:'Starters',description:'Fresh tomatoes, basil, olive oil, sourdough',price:85,image:'https://images.unsplash.com/photo-1572695157366-5e585ab2b69f?auto=format&fit=crop&w=900&q=85',alt:'Bruschetta topped with tomatoes'},
+ {id:4,name:'Grilled Sirloin',category:'Mains',description:'200g sirloin, seasonal vegetables, choice of sauce',price:155,image:'https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=900&q=85',alt:'Grilled steak with vegetables'},
+ {id:5,name:'Herb Chicken',category:'Mains',description:'Free-range chicken, roasted vegetables',price:175,image:'https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=900&q=85',alt:'Roasted chicken and vegetables'},
+ {id:6,name:'Creamy Mushroom Pasta',category:'Mains',description:'Tagliatelle, wild mushrooms, parmesan',price:150,image:'https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=900&q=85',alt:'Pasta with herbs'},
+ {id:7,name:'Chocolate Lava Cake',category:'Desserts',description:'Warm chocolate cake, vanilla ice cream',price:92,image:'https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=900&q=85',alt:'Chocolate dessert on a white plate'},
+ {id:8,name:'New York Cheesecake',category:'Desserts',description:'Creamy cheesecake with berry compote',price:78,image:'https://images.unsplash.com/photo-1533134242443-d4fd215305ad?auto=format&fit=crop&w=900&q=85',alt:'A slice of cheesecake'},
+ {id:9,name:'Vanilla Panna Cotta',category:'Desserts',description:'Seasonal fruit, mint',price:55,image:'https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=900&q=85',alt:'Vanilla dessert with fruit'}
+]
+export default menuItems
