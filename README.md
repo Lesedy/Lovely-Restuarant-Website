@@ -1,4 +1,4 @@
-# The Olive Table — Assignment 2
+# Lovely Restuarant — Assignment 2
 
 React + Tailwind rebuild of Assignment 1. JavaScript only, Vite, hardcoded data, no extra UI libraries.
 
